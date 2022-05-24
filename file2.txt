@@ -1,0 +1,3 @@
+name = Mane Rahul Rohidas
+Div = IT_A
+MArk = 8.28
